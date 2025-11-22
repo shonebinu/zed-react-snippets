@@ -7,7 +7,7 @@ This Zed extension provides converted snippets from the popular  ["ES7+ React/Re
 ## Installation
 1. Clone this repository.
 2. Open the Extensions tab in Zed (`Ctrl + Shift + X`).
-3. Click **Install Dev Extension** and select the cloned repo.xtensions tab in Zed (`Ctr + Shift + X) -> Click on "Install Dev Extension" -> Select the cloned repo.
+3. Click **Install Dev Extension** and select the cloned repo.
 
 
 ## Usage
