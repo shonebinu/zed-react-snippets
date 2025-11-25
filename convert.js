@@ -24,7 +24,7 @@ import fs from "fs";
 const url =
   "https://raw.githubusercontent.com/r5n-labs/vscode-react-javascript-snippets/refs/heads/master/src/snippets/generated.json";
 
-// for some reason, only one snippet can be added
+// for some reason, only snippets for one file type can be added
 const outputFile = "snippets/tsx.json";
 
 try {
