@@ -1,6 +1,6 @@
 id = "react-snippets-es7"
 name = "ES7+ React/Redux/React-Native snippets"
-version = "1"
+version = "1.0.0"
 schema_version = 1
 authors = ["Shone Binu <hello@shonebinu.com>"]
 description = "Converted React/Redux/React-Native snippets from the popular 'ES7+ React/Redux/React-Native snippets' VSCode extension."
