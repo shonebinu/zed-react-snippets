@@ -5,10 +5,7 @@ This Zed extension provides converted snippets from the popular  ["ES7+ React/Re
 [Available Snippets](https://github.com/r5n-labs/vscode-react-javascript-snippets/blob/master/docs/Snippets.md)
 
 ## Installation
-1. Clone this repository.
-2. Open the Extensions tab in Zed (`Ctrl + Shift + X`).
-3. Click **Install Dev Extension** and select the cloned repo.
-
+You can download the extension from the Zed extension store. Just search for `react-snippets-es7` and click install.
 
 ## Usage
 Snippets currently work in `.tsx` files. 
