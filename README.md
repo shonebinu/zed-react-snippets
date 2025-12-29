@@ -1,5 +1,7 @@
 # Zed React Snippets
 
+![Extension Installation Count](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.zed.dev%2Fextensions%2Freact-snippets-es7&query=%24.data%5B%3A1%5D.download_count&style=for-the-badge&label=INSTALLS&color=green)
+
 This Zed extension provides converted snippets from the popular  ["ES7+ React/Redux/React-Native snippets"](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) VSCode extension.
 
 [Available Snippets](https://github.com/r5n-labs/vscode-react-javascript-snippets/blob/master/docs/Snippets.md)
